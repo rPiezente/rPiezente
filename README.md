@@ -1,4 +1,4 @@
-<p align="left">👋<br>Olá, me chamo Rafael Piezente <br>Atualmente estou cursando análise e desenvolvimento de sistemas, também estou desenvolvendo algumas habilidades em C# (CSHARP) e em projetos da faculdade utilizo Python.<br><br>💼 em busca de um estagio como desenvolvedor backend</p>
+<p align="left"><br>💼 em busca de um estagio como desenvolvedor backend <br>🧑🏻‍🎓 Tecnólogo analise e desenvolvimento de sistemas <br></p>
 
 ###
 
