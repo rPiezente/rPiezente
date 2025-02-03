@@ -19,9 +19,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rPiezente&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="143" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rPiezente&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=github_dark&hide_border=true&order=2" height="143" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rPiezente&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <div align="center">
